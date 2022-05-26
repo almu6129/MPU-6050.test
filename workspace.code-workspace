@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "220516-194552-teensy41",
+			"path": "../220516-194552-teensy41"
+		},
+		{
+			"name": "MPU-6050.test",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
